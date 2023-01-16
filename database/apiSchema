@@ -1,0 +1,60 @@
+// User
+----
+userLogin
+POST /api/user/login
+{
+  "username":
+  "password":
+}
+
+----
+userSignup
+POST /api/user/signup
+{
+  "username":
+  "password":
+}
+
+----
+userGetItems
+GET /api/user/item
+{
+  ""
+}
+
+----
+userGetItemDetail
+GET /api/user/item/:item_id
+{
+  
+}
+
+
+// Admin
+----
+adminAddItem
+POST /api/admin/item
+{
+  ""
+}
+
+----
+adminDeleteItem
+DELETE /api/admin/item/:item_id
+{
+  ""
+}
+
+----
+adminUpdateItem
+PUT /api/admin/item/:item_id
+{
+  ""
+}
+
+----
+adminCheckPromotionCode
+POST /api/admin/promo/verify
+{
+  ""
+}

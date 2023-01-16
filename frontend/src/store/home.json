@@ -1,0 +1,124 @@
+[
+  {
+    "id": "0b7880d6-fe85-4321-a71b-057e15514729",
+    "name": "Nike React Miler",
+    "price": "$130",
+    "category": "Men's Running Shoe",
+    "description": "<p>The Nike React Miler gives you trusted stability for miles with athlete-informed performance. Made for dependability on your long runs, its intuitive design offers a locked-in fit and a durable feel.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: White/Photo Blue/Black</li><li class=\"description-preview__style-color ncss-li\">Style: CW1777-100</li></ul>",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-dcb8da19-e944-45c6-adcd-f07057920241/react-miler-mens-running-shoe-DgF6nr.jpg"
+    ]
+  },
+  {
+    "id": "c50b599d-5f15-4927-8336-6b27e0d6c305",
+    "name": "Nike React Infinity Run Flyknit",
+    "price": "$160",
+    "category": "Men's Running Shoe",
+    "description": "<p>The Nike React Infinity Run Flyknit is designed to help reduce injury and keep you on the run. More foam and improved upper details provide a secure and cushioned feel. Lace up and feel the potential as you hit the road.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: True White/White/Pure Platinum/Photo Blue</li><li class=\"description-preview__style-color ncss-li\">Style: CD4371-101</li></ul>",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-56c262e8-c967-489b-b322-37e67304fdf0/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/videos/t_PDP_1280_v1/f_auto,so_0/7976053b-4853-4a47-8bd0-2958aa3aae02/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-402795b9-3401-408d-9d76-680a17cd67ef/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-e92dc38f-bb2b-45a5-baec-1203bd56f8cb/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-5e364d52-40af-459e-9ee2-ba3592ca1d4c/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-41abfdf9-18dc-4140-bb9e-898aa750abf7/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-057266d3-c825-4a03-a2d0-69935e6f00f3/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-c85fe468-d5a4-441e-825a-c50fa34dae2c/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-d1523514-562f-429c-bdfc-b23483d6e23f/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg"
+    ]
+  },
+  {
+    "id": "47d7fa0d-65a2-4711-9ff8-a0f4b8a45a88",
+    "name": "Nike Air Force 1 '07",
+    "price": "$90",
+    "category": "Men's Shoe",
+    "description": "<p>Hoops in the park, Sunday BBQs and sunshine. The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: crisp leather, stitched overlays in classic all-white and the perfect amount of flash to make you shine.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: White/White</li><li class=\"description-preview__style-color ncss-li\">Style: 315122-111</li></ul>",
+    "images": [
+      "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/gsuin11ptg5qgktmzoat/air-force-1-07-mens-shoe-JkTGzADv.jpg",
+      "https://static.nike.com/a/videos/t_PDP_1280_v1/f_auto,so_4.8/fnpfrqywv44pehh8o1ug/air-force-1-07-mens-shoe-JkTGzADv.jpg",
+      "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/s7b9hhnweke7btujcqgh/air-force-1-07-mens-shoe-JkTGzADv.jpg",
+      "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/ler6xnp35l9udmqjkhkc/air-force-1-07-mens-shoe-JkTGzADv.jpg",
+      "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/uzmzojffx41efevkvne0/air-force-1-07-mens-shoe-JkTGzADv.jpg",
+      "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/z2augmvefzy62cbg7pxc/air-force-1-07-mens-shoe-JkTGzADv.jpg",
+      "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/xvzphfehsvxzaaff8ve0/air-force-1-07-mens-shoe-JkTGzADv.jpg"
+    ]
+  },
+  {
+    "id": "d09d6a96-cc9e-43d2-ac0c-384f93d69aea",
+    "name": "Nike SB Nyjah Free 2",
+    "price": "$95",
+    "category": "Skate Shoe",
+    "description": "<p>The Nike SB Nyjah Free 2 is a sequel worthy of its predecessor. Inspired by the iconic Nike Air Zoom Spiridon, the original rubber design has been updated with mesh panels to help your feet stay cool through your hottest skate sessions.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: Summit White/Summit White/Summit White/Black</li><li class=\"description-preview__style-color ncss-li\">Style: BV2078-100</li></ul>",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/9d284f7c-8830-49bf-a9f5-fa68f7cfb9ed/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/480b4ebc-b590-4ff6-905d-e646cf656def/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/2d6e0f0f-829a-4292-a8a6-08225a8a68ff/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/b989235a-0572-4efb-8332-1f0c5fdc8e1f/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/0029fd6f-cae0-47e8-82ca-a857eeac1106/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/b22bc9ca-fdec-47a0-ae0a-710ce8d8de85/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/7f05afce-c12b-49a5-9dac-f153827935a6/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/caa754e9-c536-463a-8350-857607d3b7b4/sb-nyjah-free-2-skate-shoe-MNkJB3.jpg"
+    ]
+  },
+  {
+    "id": "2cd69662-8a1a-4441-b14d-baf4b5af33a2",
+    "name": "Nike Blazer Mid '77 Vintage",
+    "price": "$100",
+    "category": "Shoe",
+    "description": "<p>The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike basketball with a vintage midsole finish, making it look like you've been saving them for years.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: White/Black</li><li class=\"description-preview__style-color ncss-li\">Style: BQ6806-100</li></ul>",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/kxmb3lab5dmy00qpoyul/blazer-mid-77-vintage-shoe-flCCX4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/u9ky0ah8uucbw4ctjubm/blazer-mid-77-vintage-shoe-flCCX4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/8bc7d689-de2c-4b49-986c-b42153895bc0/blazer-mid-77-vintage-shoe-flCCX4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/ef4dbed6-c621-4879-8db3-f87296bfb570/blazer-mid-77-vintage-shoe-flCCX4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/y8r9gzzawwfshavf1jwj/blazer-mid-77-vintage-shoe-flCCX4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/adc43e71-ff78-4d39-a95f-ba86aa88565f/blazer-mid-77-vintage-shoe-flCCX4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/eb25805f-6064-42a1-aa7a-0e4c426bc374/blazer-mid-77-vintage-shoe-flCCX4.jpg"
+    ]
+  },
+  {
+    "id": "618e0055-fcf3-4d92-858d-35be9377e08a",
+    "name": "Air Jordan 1 Low",
+    "price": "$90",
+    "category": "Shoe",
+    "description": "<p>Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. It's made for casual mode, with an iconic design that goes with everything and never goes out of style.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: Black/Light Smoke Grey/White/Black</li><li class=\"description-preview__style-color ncss-li\">Style: 553558-039</li></ul>",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/i1-483c83ff-0235-4aec-80b3-d30fdc942585/air-jordan-1-low-shoe-z3Tl2VeJ.jpg"
+    ]
+  },
+  {
+    "id": "350a82b0-88af-4a2f-9054-d9322a351f16",
+    "name": "Nike Air Max 2090",
+    "price": "$150",
+    "category": "Men's Shoe",
+    "description": "<p>Bring the past into the future with the Nike Air Max 2090, a bold look inspired by the DNA of the iconic Air Max 90. Brand-new Nike Air cushioning underfoot adds unparalleled comfort while transparent mesh and vibrantly colored textile on select colorways blend with timeless OG features for an edgy, modernized look.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: White/Chile Red/Deep Royal Blue/White</li><li class=\"description-preview__style-color ncss-li\">Style: CT1091-101</li></ul>",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/14f8e01d-c78a-49f3-a393-22be8e9afe7d/air-max-2090-mens-shoe-3pVM46.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/2fbee5eb-cb31-4ad8-8bb3-0890882bc942/air-max-2090-mens-shoe-3pVM46.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/aaf3e658-3340-480f-b701-932d5e9525f3/air-max-2090-mens-shoe-3pVM46.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/1e7f48b4-1efa-480d-b333-96897b3727f9/air-max-2090-mens-shoe-3pVM46.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/dec20306-637c-4c67-8109-c70b3e0d07c3/air-max-2090-mens-shoe-3pVM46.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/6abf02da-faa7-4696-bda5-bc7d40d1e301/air-max-2090-mens-shoe-3pVM46.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/28da8ba6-076e-4657-ac9f-d0834b4f1826/air-max-2090-mens-shoe-3pVM46.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/ae47d88b-a1a3-4a6c-b0c4-12079e9ac0bd/air-max-2090-mens-shoe-3pVM46.jpg"
+    ]
+  },
+  {
+    "id": "c31fae24-82da-43ed-95c5-7b0d23d96d28",
+    "name": "Nike Air VaporMax Plus",
+    "price": "$200",
+    "category": "Men's Shoe",
+    "description": "<p>The Nike Air VaporMax Plus looks to the past and propels you into the future. With a design that nods to the '98 Air Max Plus, it adds revolutionary VaporMax Air technology to ramp up the comfort and modern look. Featuring a striking red palette and the OG's wavy design lines, it shows off your defiant style.</p><ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\"><li class=\"description-preview__color-description ncss-li\">Shown: University Red/University Red</li><li class=\"description-preview__style-color ncss-li\">Style: CW6973-600</li></ul>",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/628c60b8-8ead-4a66-89f5-e8a1a740ac1e/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/044aa795-42e2-40cb-bdcf-2cf3252c58fe/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/487d951f-bd7b-4e80-9b68-927e50768348/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/afa315ff-3de2-40cf-9af3-6b33ad46dfb7/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/39ad1e6b-858d-4e87-abcc-1d7b753633ff/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/4d81b340-1094-478c-aeae-be7e44703d7a/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/579572e8-cd34-43fa-8c3c-9e654271461b/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/f2783a2b-f861-4c33-bebc-93cf095a95dd/air-vapormax-plus-mens-shoe-w4xgr4.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/6bb8b667-f8f4-42a0-8e83-3ed44effdb34/air-vapormax-plus-mens-shoe-w4xgr4.jpg"
+    ]
+  }
+]

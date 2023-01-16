@@ -1,0 +1,22 @@
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+extensions.json
+*.zip
+
+build
+frontend/package-lock.json
+frontend/package-lock.json

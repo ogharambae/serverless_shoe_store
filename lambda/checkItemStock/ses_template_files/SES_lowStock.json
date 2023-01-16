@@ -1,0 +1,7 @@
+{
+  "Template": {
+    "TemplateName": "admin-low-stock",
+    "SubjectPart": "Low Stock Item Notice",
+    "HtmlPart": "<!DOCTYPE html> <html> <head> <style> table { border-collapse: collapse; width: 50%; } td, th { border: 1px solid #dddddd; text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #dddddd; } <\/style> <\/head> <body> <h2>Low Stock Shoe List<\/h2> <table> <tr> <th>shoe_id<\/th> <th>shoe_name<\/th> <th>shoe_size<\/th> <th>quantity<\/th> <\/tr> {{#each shoes}} <tr> <td>{{shoe_id}}<\/td> <td>{{shoe_name}}<\/td> <td>{{shoe_size}}<\/td> <td>{{quantity}}<\/td> <\/tr> {{\/each}} <\/table> <\/body> <\/html>"
+  }
+}
